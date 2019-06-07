@@ -1,0 +1,6 @@
+class ExampleClass:
+    def toJSON:
+        "example JSON".toJSON
+    def toText:
+        "example Text"
+### META {"metas":[]}

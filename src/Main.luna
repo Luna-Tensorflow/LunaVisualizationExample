@@ -1,0 +1,9 @@
+import Std.Base
+import LunaVisualizationExample.Example
+
+«0»def main:
+    «1»a = 3
+    «2»e = ExampleClass
+    None
+
+### META {"metas":[{"marker":1,"meta":{"_displayResult":false,"_selectedVisualizer":["LunaVisualizer: base: json","base/json/json.html"],"_position":{"fromPosition":{"_vector2_y":0,"_vector2_x":0}}}},{"marker":2,"meta":{"_displayResult":true,"_selectedVisualizer":["ProjectVisualizer: example: example","example/example.html"],"_position":{"fromPosition":{"_vector2_y":-16,"_vector2_x":288}}}}]}
